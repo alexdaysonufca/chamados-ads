@@ -4,7 +4,9 @@ Projeto Desenvolvido na Disciplina de Programação para Web - Curso de Análise
 Instituição: Universidade Federal do Cariri (UFCA)
 
 Curso: Análise e Desenvolvimento de Sistemas
+
 Disciplina: Programação para WeB
-Prof. Jair
+Prof. Jair Alencar
+Tutora: Mônica Paz
 
 Estudante: Antonio Alex Dayson Tomaz
