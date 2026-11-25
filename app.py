@@ -5,9 +5,5 @@ app = Flask(__name__)
 @app.get("/")
 def inicio():
     return {
-        "mensagem": "API funcionando"
+        "mensagem": "API de chamados em funcionamento"
     }
-
-# python app.py
-# uv run flask run
-# flask run
